@@ -1,0 +1,23 @@
+The PPM Image Format
+
+1) Search (google it) the PPM format
+2) Open gedit
+3) Create a 3x3 image with mexican flag colours
+4) Save the file as whatever.ppm
+5) Open it
+	- Open a terminal
+	- Change directory to the image
+	- Use: eog whatever.ppm (is a Gnome command in KDE use kuickshow whatever.ppm)
+	- pacman -S kuickshow
+6) Write a program to generate an image of FULLHD resolution with random pixels
+7) Install the program "avconu" in Debian (sudo apt-get install libav-tools)
+8) Write a program that generates "n" random FullHD images
+	- image_0.ppm
+	- image_1.ppm
+	- image_2.ppm
+	-.....
+	- image_99.ppm
+
+9) Use avconv to create a video from the images. "avconv -i image-%d.ppm estatica.avi"
+	- sudo apt-get install libav-tools
+	- pacman -S libav
