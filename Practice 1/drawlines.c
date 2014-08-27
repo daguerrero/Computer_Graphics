@@ -1,11 +1,14 @@
+/*
+Nombre: Guerrero Romero Daniel Alberto
+Materia: Computer Graphics
+Programa: Algoritmos para dibujar lineas (Naive, DDA, Bresenhan)
+*/
+
 #include <stdio.h>
 
 float X1=0, X2=5, Y1=1, Y2=4, m, swap, b;
 
 float Ys[1000];
-
-/*RECTA DE EJEMPLo*/
-
 
 int main(){
 

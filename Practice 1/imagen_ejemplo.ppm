@@ -1,0 +1,16 @@
+P3
+#Esto es una imagen que crea una bandera mexicana bastante basica
+#valores de Y1: 1.000000 -> 1 P(X,Y)= 0,1
+#valores de Y2: 1.600000 -> 2 P(X,Y)= 1,2
+#valores de Y3: 2.200000 -> 2 P(X,Y)= 2,2
+#valores de Y4: 2.800000 -> 3 P(X,Y)= 3,3
+#valores de Y5: 3.400000 -> 3 P(X,Y)= 4,3
+#valores de Y6: 4 		 -> 4 P(X,Y)= 5,4
+# Puntos iniciales: X1=0 , X2=5 , Y1=1 , Y2=4
+5 5
+15
+0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 15 0 0
+0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 15 0 0
+0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 15 0 0
+0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 15 0 0
+15 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 0 0 0 	0 0 15 0 0
