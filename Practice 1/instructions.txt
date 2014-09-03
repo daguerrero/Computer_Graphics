@@ -1,0 +1,19 @@
+Practice No. 1 - Line Drawing
+
+1) Implement DDA or Bresengam line drawing algorith
+2) Use it to create a video of random lines / random color
+
+tar czf practice1.tar.gz practice1/
+{
+	- Makefile
+	- main.c
+	- functions.c
+	- functions.h
+	- Report.txt
+		-> Full name
+		-> Introduction
+		-> Development
+		-> Conclusion
+}
+
+to deliver at:	norman_escom_ipn@yahoo.com.mx	10/Sept/2014
