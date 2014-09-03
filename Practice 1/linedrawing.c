@@ -85,6 +85,7 @@ void DDA(float X1, float Y1, float X2, float Y2, float m){
 	y = Ys[0] + m;
 	////DEBUG PITERO
 	for (X1++; X1 < X2; X1++){
+		
 
 	}
 }
